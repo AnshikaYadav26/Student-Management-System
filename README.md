@@ -1,4 +1,4 @@
-# Student Management System.
+# Student Management System
 
 A Java-based, menu-driven Student Management System designed for efficient student record management. The system allows users to add, view, search, sort, delete, and restore student records while demonstrating the practical application of Data Structures and Algorithms.
 
